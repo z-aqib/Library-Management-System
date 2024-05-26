@@ -1,0 +1,15 @@
+File Written on 2023/12/11 09:49:53
+Total Books in Library -> 5044
+
+ANALYSING ISSUING OF BOOKS
+The most issued book was -> ID = 10632, Name = CHICKEN SOUP FOR THE SOUL HEALTHY LIVING SERIES: WEIGHT LOSS, Author = Jack Canfield, Available = true, Quantity = 18, Genre = Short Stories Inspirational, Rating = 1.91, NumberOfTimesIssued = 100, Image = sun.awt.image.ToolkitImage@7f560810
+The least issued book was -> ID = 10298, Name = BARNABY RUDGE, Author = Charles Dickens, Available = true, Quantity = 2, Genre = Political, Rating = 1.83, NumberOfTimesIssued = 0, Image = sun.awt.image.ToolkitImage@153f5a29
+Average Number of Issues per book -> 49.92585249801745
+
+ANALYSING RATING OF BOOKS
+The most rated book was -> ID = 10667, Name = CHICKEN SOUP FOR THE GRANDPARENT'S SOUL, Author = Jack Canfield, Available = false, Quantity = 0, Genre = Short Stories Inspirational, Rating = 5.0, NumberOfTimesIssued = 3, Image = sun.awt.image.ToolkitImage@7f560810
+The least rated book was -> ID = 10172, Name = UNCLE GANGSTER, Author = Alexander McCall Smith, Available = true, Quantity = 4, Genre = Children, Rating = 1.0, NumberOfTimesIssued = 18, Image = sun.awt.image.ToolkitImage@153f5a29
+Average Rating of Books -> 3.5921411578112648
+
+ANALYSING TOTAL COUNT OF BOOKS
+Total Number of Books Quantity in Library -> 74772
